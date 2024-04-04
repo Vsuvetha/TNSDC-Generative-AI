@@ -9,7 +9,7 @@ Project Overview:
           
 
 Techniques Used:
-   1.Data Collection
+1.Data Collection
    2.Data Preprocessing
    3.Convolutional Neural Network (CNN) Modeling
    4.Model Evaluation
