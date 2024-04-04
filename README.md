@@ -11,15 +11,15 @@ Skin cancer detection is a crucial task in healthcare, where early detection can
 # Techniques Used:
    - Data Collection
    - Data Preprocessing
-   3.Convolutional Neural Network (CNN) Modeling
-   4.Model Evaluation
-   5.Packages Required
-   6.NumPy
-   7.Pandas
-   8.TensorFlow
-   9.Keras
-  10.Matplotlib
-  11.Scikit-learn (for model evaluation)
+   - Convolutional Neural Network (CNN) Modeling
+   - Model Evaluation
+   - Packages Required
+   - NumPy
+   - Pandas
+   - TensorFlow
+   - Keras
+   - Matplotlib
+   - Scikit-learn (for model evaluation)
 
   
 # Dataset:
@@ -35,17 +35,17 @@ Skin cancer detection is a crucial task in healthcare, where early detection can
       
 
 # Usage:
-      1.Clone the repository to your local machine.
-      2.Install the required packages listed in the requirements.txt file.
-      3.Run the provided Python scripts or Jupyter notebooks to train and evaluate the CNN model.
-      4.Use the trained model to make predictions on new skin lesion images.
+      - Clone the repository to your local machine.
+      - Install the required packages listed in the requirements.txt file.
+      - Run the provided Python scripts or Jupyter notebooks to train and evaluate the CNN model.
+      - Use the trained model to make predictions on new skin lesion images.
 
       
 # Steps:
-      1.Importing packages
-      2.Reading the dataset
-      3.Data Preprocessing 
-      4.Building the CNN model
-      5.Compiling the model
-      6.Training the model
-      7.Evaluating the model
+      - Importing packages
+      - Reading the dataset
+      - Data Preprocessing 
+      - Building the CNN model
+      - Compiling the model
+      - Training the model
+      - Evaluating the model
