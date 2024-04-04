@@ -1,7 +1,8 @@
 # TNSDC-Generative-AI
 Skin Cancer Detection using Convolutional Neural Networks (CNN)
 
-Skin cancer detection is a crucial task in healthcare, where early detection can significantly improve patient outcomes. This project utilizes Convolutional Neural Networks (CNN) to automate the process of skin cancer detection from images.
+Skin cancer detection is a crucial task in healthcare, where early detection can significantly improve patient outcomes. 
+This project utilizes Convolutional Neural Networks (CNN) to automate the process of skin cancer detection from images.
                           
 
 # Project Overview:
